@@ -16,6 +16,6 @@ Read more about it: [The Minimal React Webpack Babel Setup](https://www.robinwie
 
 * `git clone git@github.com:rwieruch/minimal-react-webpack-babel-setup.git`
 * cd minimal-react-webpack-babel-setup
-* npm install
-* npm start
+* yarn install
+* yarn start
 * visit `http://localhost:8080/`
