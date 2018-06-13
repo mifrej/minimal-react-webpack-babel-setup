@@ -1,4 +1,4 @@
-# Tasks TO DO
+# Test Case
 * Add any preferable style loader to current Webpack setup
 * 'Wireframe' simple 2 column layout (left column as a sidebar, right as a content)
 * Implement simple 'navigation' list in the left column
